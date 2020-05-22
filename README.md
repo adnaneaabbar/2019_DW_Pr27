@@ -5,7 +5,7 @@ Ses auteurs sont des biologistes marins, experts en biologie et écologie de ces
 
 Notre travail consiste à : 
 
-**Gérer l'extraction de données et leur réorganisation pour un usage dans l'application. (tarnsformation en JSON)**
+**Gérer l'extraction de données et leur réorganisation pour un usage dans l'application. (tarnsformation en fichier JSON)**
 
 **Gérer la persistance de ces données. (stockage en base de donnnés)**
 
